@@ -19,6 +19,9 @@ Resumo de versionamento de Git e GitHub do Bootcamp da DIO [Digital Inovation On
 ```
 
 git init
+git remove
+git pull
+git push
 
 ```
 
